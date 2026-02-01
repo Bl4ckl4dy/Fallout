@@ -7,13 +7,14 @@
 "info": "bY Virgin Mary",
 "groups":
 	[
- 		{
+
+{
 		"name": "Temporada 01",
  		"image": "https://www.flixcorn.com/uploads/Fallout737.jpg",
  		"info":"",
  		"stations":
 			[
- 				{
+{
  				"name": "Episodio 01",
  				"info":"",
  				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
@@ -93,6 +94,7 @@
 "image": "https://www.flixcorn.com/uploads/Fallout737.jpg",
 "stations": 
 [
+
 {
 "name": "Episodio 01",
  				"info":"",
