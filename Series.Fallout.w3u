@@ -1,7 +1,7 @@
 {
 "name": "Fallout",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Fallout/refs/heads/main/Series.Fallout.w3u",
+"url": "https://af1c1onados.vercel.app/Series.Fallout.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
 "info": "bY Virgin Mary",
@@ -83,7 +83,10 @@
 				"url":"https://byseraguci.com/d/y3ctg6py5net/fallout-s01e08-mp4",
 				"userAgent": "PlusMediaPlayer/0.0.9",
 				"isHost":"true",
-				"online":"true"},
+				"online":"true"
+  }
+	]
+	},
 
 {
 "name": "Temporada 02",
@@ -156,4 +159,4 @@
 			]
 		}
 	]
-}]}
+}
