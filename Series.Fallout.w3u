@@ -93,10 +93,10 @@
 "name": "Temporada 02",
 "image": "https://www.flixcorn.com/uploads/Fallout737.jpg",
 "stations": 
-[
+                [
 
-{
-"name": "Episodio 01",
+                {
+                "name": "Episodio 01",
  				"info":"",
  				"image":"https://www.flixcorn.com/uploads/Fallout737.jpg",
  				"url":"https://byseqekaho.com/d/fa9ald5n8tfp/fallout-2x01",
@@ -167,7 +167,6 @@
 				"isHost":"true",
 				"online":"true"
 				}
-
 			]
 		}
 	]
